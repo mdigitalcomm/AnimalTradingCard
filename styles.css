@@ -1,0 +1,38 @@
+/* add your CSS here */
+h1 {
+	color: green;
+}
+
+.main {
+	display: block;
+	border: 1px solid green;
+	border-radius: 10px;
+	padding: 5px 15px;
+	width: 270px;
+	background-color: #c9e8c9;
+}
+
+
+img {
+	width: 300px;
+	/*height: 200px;*/
+	border-radius: 10px;
+	border: 1px solid green;
+}
+
+img {
+	-webkit-box-shadow: 6px 6px 5px 0px rgba(0,0,0,0.09);
+	-moz-box-shadow: 6px 6px 5px 0px rgba(0,0,0,0.09);
+	box-shadow: 6px 6px 5px 0px rgba(0,0,0,0.09);
+}
+
+
+.FunFact {
+	font-style: italic;
+	font-weight: bold;
+}
+
+ul, li {
+	list-style: none;
+	padding-left: 0px;
+}
