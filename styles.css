@@ -37,8 +37,11 @@ img {
 	font-weight: bold;
 }
 
-ul, 
-li {
+.feature {
+	font-weight: bold;
+}
+
+ul {
 	list-style: none;
 	padding-left: 0;
 }
